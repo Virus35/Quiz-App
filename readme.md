@@ -14,7 +14,6 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
 
 ### 📌 Overview 
 
-<br>
 
 ![PROJECT-SCREENSHOT](./Images/../Image/vishal-quiz-app.netlify.app_.png)
 
