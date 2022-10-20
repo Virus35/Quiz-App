@@ -20,11 +20,11 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
 
 ### 📌 What I Learn
 
-> 👉 1. Html, Css and DOM manipulation.
-  👉 2. Local Storage
-  👉 3. Seprating each functionality into smaller chunks.
-  👉 4. Managing Objects, Handling Event Listeners.
-  👉 5. Loops and conditionals
+> 👉 1. Html, Css and DOM manipulation. <br>
+  👉 2. Local Storage. <br>
+  👉 3. Seprating the functionality into smaller chunks. <br>
+  👉 4. Managing Objects, Handling Event Listeners. <br>
+  👉 5. Loops and conditionals. <br>
 
 ### Time Taken to Complete this Project:- 2 Hours
 
